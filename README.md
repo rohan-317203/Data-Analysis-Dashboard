@@ -14,6 +14,9 @@ When are peak ordering times by day and by hour?
 What category and size of pizzas generate the most revenue?
 
 -Dashboard Interaction <a href="https://github.com/rohan-317203/Data-Analysis-Dashboard/blob/main/DASHBOARD.png">View Dashboard</a>
+## Dashboard 
+![DASHBOARD](https://github.com/user-attachments/assets/f6bfec26-b0b3-4be5-9242-c55f3ebdae3f)
+
 
 ## Project Process 
 Data Preparation: Cleaned and formatted the Excel dataset.
